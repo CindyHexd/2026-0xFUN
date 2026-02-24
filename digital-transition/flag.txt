@@ -1,4 +1,1 @@
 0XFUN{TMDS_D3CODED_LIKE_A_PRO}
-
-didn't understand
-the only working py file: decode_hdmi.py
